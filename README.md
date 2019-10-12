@@ -6,6 +6,10 @@ fighting robot contest
 mbc：软件，包括手柄控制，pwm调试
 # 时间节点
 
+alpha版：电路及软件测试完成，外壳设计完成 10月19日晚上10点
+beta版：
+
+
 
 # 元器件及重量
 
