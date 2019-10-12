@@ -30,6 +30,7 @@ FRCM10 | DFrobot板 |micro:bit配套 | 1 | 33.0g|33.0g|
 
 # 总装配图
 
+![](https://github.com/CASTIC2019/frobot/blob/master/robot.JPG)
 # 电路图 （如果有）
 
 
