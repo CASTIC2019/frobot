@@ -1,0 +1,2 @@
+# frobot
+fighting robot contest 
