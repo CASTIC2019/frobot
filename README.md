@@ -34,6 +34,7 @@ FRCM10 | DFrobot板 |micro:bit配套 | 1 | 33.0g|33.0g|
 250mm面作攻击面
 ![](https://github.com/CASTIC2019/frobot/blob/master/robot.JPG)  
 ![](https://raw.githubusercontent.com/CASTIC2019/frobot/master/%E6%A0%BC%E6%96%97%E6%9C%BA%E5%99%A8%E4%BA%BA.JPG)
+![](https://github.com/CASTIC2019/frobot/blob/master/23d813369c1183ade265c3bfc71b0bf.jpg)
 # 电路图 （如果有）
 
 
